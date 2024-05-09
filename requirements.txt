@@ -2,4 +2,4 @@ ipykernel
 jupyter
 pandas
 requests
-BeautifulSoup
+beautifulsoup4
