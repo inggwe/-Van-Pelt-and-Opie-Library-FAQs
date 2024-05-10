@@ -1,0 +1,3 @@
+Remove .ipynb_checkpoints:
+use command in the main repo directory
+Remove-Item -Path .\* -Include .ipynb_checkpoints -Recurse -Force
